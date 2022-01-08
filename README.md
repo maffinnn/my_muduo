@@ -2,6 +2,6 @@
 
 This is a c++ network library based on Reactor design pattern and multiplexing non-blocking IO model.
 
-It is created mainly for the purpose of learning how to encapsulate a scalable c++ network library.
+It is created for the sole purpose of learning.
 
-References from muduo(chenshuo) library.
+Credit to muduo -chenshuo [https://github.com/chenshuo/muduo]
